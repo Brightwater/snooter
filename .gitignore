@@ -1,0 +1,6 @@
+.env
+snooter
+snooter.yaml
+.antigravitycli/
+.vscode/
+data/snooter.db
