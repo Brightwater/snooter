@@ -1,0 +1,3 @@
+services:
+  godrive:
+    image: godrive:latest
